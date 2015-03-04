@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CalculatorJsonRPC</string>
+    <string name="action_settings">Settings</string>
+    <string name="url_string">http://pooh.poly.asu.edu:10322</string>
+    <string name="left_label">Left:</string>
+    <string name="right_label">Right:</string>
+    <string name="result_label">Result:</string>
+    <string name="operation_label">Operations:</string>
+    <string name="submit_label">Submit</string>
+    <string name="empty"></string>
+
+</resources>
